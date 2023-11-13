@@ -1,7 +1,6 @@
 
 import { Formik } from 'formik';
 import * as Yup from 'yup';
-// import { Box } from './ContactForm.styled'
 import { StyleForm, ButtonAdd, StyleError, InputStyle, Box } from './ContactForm.styled';
 
 
